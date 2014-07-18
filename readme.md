@@ -1,6 +1,6 @@
 # Responsive content reference wireframes in a blueprint style
 
-Based on Stephen Hays' idea of content reference wireframes and some [sightings on Dribbble](https://dribbble.com/shots/782399-Blueprint-Wireframe).
+Based on [Stephen Hays' idea of content reference wireframes](http://responsivedesignworkflow.com/) and some [sightings on Dribbble](https://dribbble.com/shots/782399-Blueprint-Wireframe).
 
 ## Idea
 
