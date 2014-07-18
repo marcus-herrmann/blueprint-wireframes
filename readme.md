@@ -24,7 +24,7 @@ http://demo.marcus-herrmann.com/blueprint-wireframes/
 
 ## Configuration
 ### Building your own particular wireframes
-Two CSS files are referenced in index.html, `blueprint-wireframes.css` and `style.css. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be  createded individually for every wireframe page.
+Two CSS files are referenced in index.html, `blueprint-wireframes.css` and `style.css. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be createded individually for every wireframe page or project.
 
 ### Legend
 If you are chosing to reference bits of content by numbers (like in the demo and screenshots above) provide a legend.
@@ -56,4 +56,4 @@ Keep in mind that this is non-production, throwaway code. That's why I avoided o
 
 ## Credits
 * Graphics used based on "Free Blueprint Wireframe PSD Kit" by Göksel Vancin: https://www.behance.net/gallery/Free-Blueprint-Wireframe-PSD-Kit/10952285 (CC BY-NC 3.0)
-* Redacted font by Christian Naths (https://github.com/christiannaths/Redacted-Font) and licensed   under the SIL Open Font License, Version 1.1 (see /fonts/OFL.txt)
+* Redacted font by Christian Naths (https://github.com/christiannaths/Redacted-Font) and licensed   under the SIL Open Font License, Version 1.1 (see `/fonts/OFL.txt`)
