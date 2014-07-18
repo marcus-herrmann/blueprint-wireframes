@@ -6,12 +6,25 @@ Based on Stephen Hays' idea of content reference wireframes and some [sightings 
 
 Static wireframes aren't always the best option for responsive workflows, nor are too detailed wireframes. By creating simple sketches in HTML and using the blueprint metaphor, this little toolkit aims to match both modern device contexts and the fact that wireframes are not design proposals.
 
+## Screenshots of example implementation
+### Overview
+![Overview](http://demo.marcus-herrmann.com/blueprint-wireframes/demo/1.png)
+
+### Responsive
+![Responsive](http://demo.marcus-herrmann.com/blueprint-wireframes/demo/3.png)
+
+### Welcome message
+![Welcome](http://demo.marcus-herrmann.com/blueprint-wireframes/demo/2.png)
+
+### Legend
+![Legend](http://demo.marcus-herrmann.com/blueprint-wireframes/demo/4.png)
+
 ## Demo
-http://demo.marcus.io/blueprint-wireframes/
+http://demo.marcus-herrmann.com/blueprint-wireframes/
 
 ## Configuration
 ### Building your own particular wireframes
-Two CSS files are referenced in index.html, blueprint-wireframes.css and style.css. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be  createded individually for every wireframe page.
+Two CSS files are referenced in index.html, `blueprint-wireframes.css` and `style.css. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be  createded individually for every wireframe page.
 
 ### Legend
 If you are chosing to reference bits of content by numbers (like in the demo and screenshots above) provide a legend.
