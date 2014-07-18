@@ -24,7 +24,7 @@ http://demo.marcus-herrmann.com/blueprint-wireframes/
 
 ## Configuration
 ### Building your own particular wireframes
-Two CSS files are referenced in index.html, `blueprint-wireframes.css` and `style.css. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be  createded individually for every wireframe page.
+Two CSS files are referenced in index.html, `blueprint-wireframes.css` and `style.css`. While blueprint-wireframes.css serves generic styles for the blueprint look, style.css is meant to be  createded individually for every wireframe page.
 
 ### Legend
 If you are chosing to reference bits of content by numbers (like in the demo and screenshots above) provide a legend.
