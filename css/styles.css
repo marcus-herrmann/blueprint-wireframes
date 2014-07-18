@@ -1,0 +1,154 @@
+/*
+ * Apply your individual content reference wireframe styles here
+ */
+
+.header-main {
+	position: relative;
+	height: 55%;
+	min-height: 22em;
+	margin-top: 0;
+}
+
+.nav-main {
+	height: 4em;
+	width: 50%;
+	max-width: 45em;
+	position: absolute;
+	top: 2%;
+	right: 2%;
+
+}
+
+.nav-meta {
+	clear: both;
+	min-height: 1em;
+	margin-top: 1em;
+}
+
+.logo {
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	height: 4em;
+	width: 13em;
+	background: #fff;
+}
+
+.inner {
+	max-width: 62.5em;
+}
+
+.in-header {
+	position: absolute;
+	top: 25%
+}
+
+.teaser-1,
+.teaser-2,
+.teaser-3 {
+	float: left;
+	width: 32%;
+	margin-left: 2%;
+	height: 8em;
+	background: #5b79b9;
+}
+
+.teaser-1 {
+	margin-left: 0;
+}
+
+.contact-block {
+	margin-top: 1em;
+}
+
+.contact,
+.socialmedia {
+	float: left;
+	width: 49%;
+	margin-left: 2%;
+	min-height: 8em;
+	background: #5b79b9;
+}
+
+.contact {
+	margin-left: 0;
+}
+
+.header-main .inner {
+	position: absolute;
+	bottom: 1em;
+	left: 50%;
+	margin-left: -500px;
+}
+
+.intro {
+	margin: 2em auto;
+}
+
+.hint-welcome {
+	width: 50%;
+	height: auto;
+}
+
+@media (max-width: 37.5em) {
+
+	.logo {
+		margin: 0;
+		width: 100%;
+		position: relative;
+		top: auto;
+		left: auto;
+	}
+
+	.header-main {
+		height: auto;
+		min-height: 36em;
+	}
+
+	.nav-main {
+		position: relative;
+		width: 100%;
+		top: auto;
+		left: auto;
+		right: auto;
+		margin: 1em 0 8em;
+	}
+
+	.header-main .inner {
+		position: relative;
+		width: 100%;
+		left: auto;
+		right: auto;
+	}
+
+	.contact,
+	.socialmedia {
+		float: none;
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 2%;
+	}
+
+	.teaser-1,
+	.teaser-2,
+	.teaser-3 {
+		float: none;
+		width: 100%;
+		margin-left: 0;
+		margin-bottom: 2%;
+	}
+
+	.teaser-3 {
+		margin-bottom: 0;
+
+	}
+}
+
+@media (max-width: 62.75em) {
+	.header-main .inner {
+		left: 1%;
+		right: 1%;
+		margin-left: 0;
+		width: 98%;
+	}
+}
